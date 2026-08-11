@@ -1,3 +1,4 @@
+
 # Sistema de Cadastro de Alunos
 
 Sistema simples em Python, feito via terminal, para cadastrar alunos, registrar notas e calcular a situação (Aprovado/Reprovado) com base na média.
@@ -39,3 +40,4 @@ Depois é só seguir o menu interativo no terminal.
 - Persistir os dados em arquivo (JSON ou CSV) para não perder o cadastro ao fechar o programa
 - Migrar o armazenamento para um banco de dados usando SQL
 - Adicionar testes automatizados
+
